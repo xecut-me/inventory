@@ -11,7 +11,7 @@
 
 | Item | Qty | Owner | Notes |
 |------|-----|-------|-------|
-| mts роутер | | https://t.me/xecut_bg / https://t.me/rvbar_el3 | |
+| mts роутер | | [xecut_bg@](https://t.me/xecut_bg) / [rvbar_el3@](https://t.me/rvbar_el3) | |
 
 
 # Кофе уголок
@@ -24,4 +24,4 @@
 
 | Item | Qty | Owner | Notes |
 |------|-----|-------|-------|
-| Экран | | https://t.me/enovikov11 / https://t.me/xecut_bg | 16 дюймов |
+| Экран | | [enovikov11@](https://t.me/enovikov11) / [xecut_bg@](https://t.me/xecut_bg) | 16 дюймов |

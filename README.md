@@ -1,23 +1,22 @@
 # inventory (WIP)
 Что есть в хакспейсе
 
-# Zone: Electronics
+# Стол у входа
 
-## Box: Components
+# Стеллажи
 
-| Item             | Quantity | Owner     | Notes                      |
-|------------------|----------|-----------|----------------------------|
-| 10kΩ Resistor    | 150      | @alice    | Standard 1/4W              |
-| 555 Timer IC     | 30       | @bob      | For analog projects        |
+# Стол с 3д принтером
 
-### Subbox: Capacitors
+# Роутерный уголок
 
-| Item             | Quantity | Owner     | Notes                      |
-|------------------|----------|-----------|----------------------------|
-| 100μF Electrolytic | 80     | @carol    | 16V, radial                |
+# Кофе уголок
 
-## Box: Tools
+# Кладовка
 
-| Item             | Quantity | Owner     | Notes                      |
-|------------------|----------|-----------|----------------------------|
-| Soldering Iron   | 2        | @bob      | One tip broken             |
+# Дверь
+
+## Harddver ex ноут
+
+| Item | Qty | Owner | Notes |
+|------|-----|-------|-------|
+| Экран | | @enovikov11 / @xecut-me | 16 дюймов |

@@ -9,6 +9,11 @@
 
 # Роутерный уголок
 
+| Item | Qty | Owner | Notes |
+|------|-----|-------|-------|
+| mts роутер | | https://t.me/xecut_bg / https://t.me/rvbar_el3 | |
+
+
 # Кофе уголок
 
 # Кладовка
@@ -19,4 +24,4 @@
 
 | Item | Qty | Owner | Notes |
 |------|-----|-------|-------|
-| Экран | | @enovikov11 / @xecut-me | 16 дюймов |
+| Экран | | https://t.me/enovikov11 / https://t.me/xecut_bg | 16 дюймов |

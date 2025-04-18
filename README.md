@@ -11,7 +11,7 @@
 | Item | Qty | Owner | Notes |
 |------|-----|-------|-------|
 | 3D printer Anet A8+ ||| Sprite Extruder Pro + Creality Board v2.1 (0.4 nozzle) + adhesive pad |
-| MKS Pi ||| + display + wifi|
+| MKS Pi ||| + display + wifi |
 
 ##  Большой ящик (Инструменты)
 

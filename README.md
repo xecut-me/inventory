@@ -6,6 +6,33 @@
 
 Общественный флиппер
 
+## коробка с микроконтроллерами
+
+кнопка выхода
+nano pi k2
+logitec hd камера
+18650 на платке typec от glo
+glo нагреватель
+wifi_lora+32+v3
+hilink 220-5v 0.4a(2w) 3шт
+arduino pro mini (без atmega) 2шт
+dc-dc повышайка на type c 2шт
+power delivery type c 4шт
+micro usb распаянный
+raspberry pi pico
+arduino ethernet sd shield
+stlink v2 2шт
+usb A мама 3.0 распаянный 3шт
+плата stm32f401 2шт
+arduibo pro mini 2шт
+jtag-hs3 rev a на micro usb
+распаянный micro usb 3шт
+usb 3.1 type c распаянный
+мелкие транзисторы хз
+arduino uno usb b
+какая-то esp шка
+esp32
+
 ## большая прозраяная коробка с кабелями
 
 usb a - micro usb 1m 3шт

@@ -40,7 +40,7 @@
 |------|-----|-------|-------|`
 | mts роутер | | [xecut_bg@](https://t.me/xecut_bg) / [rvbar_el3@](https://t.me/rvbar_el3) | |
 | mts TV ||||
-| Xiaomi R3P||||
+| Xiaomi R3P ||||
 
 # Кофе уголок
 

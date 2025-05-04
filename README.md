@@ -26,7 +26,20 @@
 | USB БП Baseus ||||
 | Лоток из нержавейки ||||
 
+## Левый ящик у стены
+
+## Правый ящик у стены
+
+## Левый ящик не у стены
+
+## Правый ящик не у стены
+
 # Левый рабочий стол
+
+| Item | Qty | Owner | Notes |
+|------|-----|-------|-------|
+| Звезда с экранчиком | | lacca ||
+| Pinboard 2 r2 | | lacca ||
 
 ## Коробка micro::bit
 
@@ -66,7 +79,7 @@
 | Шаговик с контролером ||||
 | Мини-проектор (платка) ||||
 
-## Картонная коробка на которой написано Лена
+## lacca thingy soldering components
 
 | Item | Qty | Owner | Notes |
 |------|-----|-------|-------|
@@ -93,6 +106,41 @@
 | Мини коробочка со светодиодами ||||
 | Мини коробочка с физическими свичами ||||
 | RFID-карточки х2 ||||
+
+## lacca thingies (stuff) controllers & nfc & other
+
+| Item | Qty | Owner | Notes |
+|------|-----|-------|-------|
+| handheld rfid writer | | lacca ||
+| pinboard 2 alter 2 max | | lacca ||
+| pinboard 2 stm32f103xx | | lacca ||
+| мини отверточка крестовая | 3 | lacca ||
+| rfid билеты | 2 | lacca ||
+| nfc module v3 с крестом | | lacca ||
+| биты для отверток | | lacca ||
+| type c - type c extender | | lacca ||
+| stm board nucleo c031c6 | | lacca ||
+| ethernet shield arduino | | lacca ||
+| pinboard 2 mini | | lacca ||
+| шаговый моторчик и ключ | | lacca ||
+| aaa батарейка | | lacca ||
+| lcd дисплей | | lacca ||
+| amperka atmega 328p | 2 | lacca ||
+| esp32 s3 | | lacca ||
+| atmega328p | | lacca ||
+| atmega16a плата | | lacca ||
+| infineon pressure sensor | | lacca ||
+| большая кнопочка | | lacca ||
+| мама-мама провода | | lacca ||
+| infineon sensor shield | | lacca ||
+| стикер xecut | | lacca ||
+| стенки мини коробочки | | lacca ||
+| джойстик с проводами | | lacca ||
+| flow3r pot usb | | lacca ||
+| camera module unknown | | lacca ||
+| infined sensor unknown | | lacca ||
+| jtag header | | lacca ||
+| jtag-hs3 rev a | | lacca ||
 
 # Правый рабочий стол
 

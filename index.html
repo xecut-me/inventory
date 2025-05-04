@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+</head>
+
+<body>
+    <script>
+        async function main() {
+            const inv = await fetch("./README.md").then(res => res.text());
+
+            window.inv = inv;
+        }
+
+        main();
+    </script>
+</body>
+
+</html>

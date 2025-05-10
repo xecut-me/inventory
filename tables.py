@@ -3,6 +3,9 @@ size = [70, 3, 20, 10]
 spacer = "|" + "|".join("-" * (s + 2) for s in size) + "|"
 
 def format(line):
+    line = list(line)
+    line[0] = line[0][0].upper() + line[0][1:]
+    line[1] = "1" if line[1] == "" else line[1]
     return "| " + " | ".join([h.ljust(s) for s, h in zip(size, line)]) + " |"
 
 lines = []

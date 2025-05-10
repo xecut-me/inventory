@@ -366,27 +366,27 @@
 
 ##  Нижний малый ящик (запчасти)
 
-| Item | Qty | Owner | Notes |
-|------|-----|-------|-------|
-|Anet3D v1.7 mainboard||||
-|Anet extruder ||| in parts|
-|4024 fan 24V |2|||
-|5015 fan 24v||||
-|hotend|2|||
-|some printed parts||||
-|nozzle 0.4|2|||
-|nozzle 0.6|||dirty|
-|nozzle cleaning needle||||
-|rollers for upgrade||||
-|bolts and nuts||||
-|magnetic base for adhesive pad||||
+| Item                                                                   | Qty | Owner            | Notes     |
+|------------------------------------------------------------------------|-----|------------------|-----------|
+| Anet3D v1.7 mainboard                                                  | 1   |                  |           |
+| Anet extruder                                                          | 1   |                  | in parts  |
+| 4024 fan 24V                                                           | 2   |                  |           |
+| 5015 fan 24v                                                           | 1   |                  |           |
+| Hotend                                                                 | 2   |                  |           |
+| Some printed parts                                                     | 1   |                  |           |
+| Nozzle 0.4                                                             | 2   |                  |           |
+| Nozzle 0.6                                                             | 1   |                  | dirty     |
+| Nozzle cleaning needle                                                 | 1   |                  |           |
+| Rollers for upgrade                                                    | 1   |                  |           |
+| Bolts and nuts                                                         | 1   |                  |           |
+| Magnetic base for adhesive pad                                         | 1   |                  |           |
 
 # Роутерный уголок
 
 | Item                                                                   | Qty | Owner            | Notes     |
 |------------------------------------------------------------------------|-----|------------------|-----------|
-| mts роутер                                                             | 1   | xecut/rvbar_el3  |           |
-| mts TV                                                                 | 1   |                  |           |
+| Mts роутер                                                             | 1   | xecut/rvbar_el3  |           |
+| Mts TV                                                                 | 1   |                  |           |
 | Xiaomi R3P                                                             | 1   |                  |           |
 
 # Кофе уголок

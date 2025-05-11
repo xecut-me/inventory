@@ -353,6 +353,54 @@
 # Средний стеллаж
 
 # Правый стеллаж
+Трубы раздвижные *2
+Трубы гофрированные вентиляционные *4
+Вентилятор 12V 
+
+Баночки с дозатором *3
+Rayban wayfarer smart glsses -- @skywinder
+Powerbank Verbatim -- @skywinder
+Чехол на iPhone 15 Pro -- @skywinder
+Flipper Zero (утопленный) -- @MERRON
+Защитное стекло на Flipper
+Конденсаторы 35v 2200μF *3 ( для югославского калькулятора)
+Конденсатор MPX/MKP X2
+Транзистор FGA25N120ANTD 1200V NPT Trench IGBT
+AC/DC *3
+Жидкая изолента
+Электромухобойка \ катушка Теслы
+AC\DC адаптер универсальный 12-24V 4-5.5 A
+AC\DC адаптер 24V 3A
+Камера-микроскоп (+ БП + vga-кабель + vga2hdmi)
+
+## enovikov stuff @enovikov
+Высокоточная бормашина proxxon fbs240/e + (комплект алмазных свёрел) @enovikov
+Пассивный аудио микшер @enovikov
+USB-HDD Seagete 2TB @enovikov
+Флешка 64GB
+vga2hdmi (оборван microUSB порт питания)
+
+### gauss accelerator project
+стальные шарики 4.5мм
+Аккумулятор 12v 3Ah
+DC\DC 12->???V 
+Конденсаторы 450V 1000μF *6
+Выключатели 250V AC 2.5A *3
+
+
+Колонки 4Ω *2
+Кабель аудио 3.5mm -> 3pin 2.54
+БП ATX 500W
+Коаксиальный кабель + сплиттер
+югославский калькулятор
+Raspberry Pi 5 + SSD + Wifi6 + USB audio card (Homeassistant server)
+
+## Dead box
+
+## Dead Yet box
+
+
+
 
 # Стол с 3д принтером
 
